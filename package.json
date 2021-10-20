@@ -1,0 +1,24 @@
+{
+  "name": "pandabotjs",
+  "version": "1.0.0",
+  "description": "discord bot for Bamboo Forest discord server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Egorov/PandaBotJS.git"
+  },
+  "author": "Daniel Egorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Egorov/PandaBotJS/issues"
+  },
+  "homepage": "https://github.com/Daniel-Egorov/PandaBotJS#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.7.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.24.0"
+  }
+}

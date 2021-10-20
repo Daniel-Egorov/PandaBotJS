@@ -1,0 +1,8 @@
+{
+    "token": "bot_token",
+    "clientID": "client_id",
+    "devID": "dev_user_id",
+    "devMode": "true/false",
+    "guildID": "guild_id",
+    "devGuildID": "dev_guild_id"
+}
